@@ -2,7 +2,7 @@ package ex1;
 
 import java.util.Date;
 
-//classe entreprise avec ses informations de base.
+//classe entreprise avec ses données de base.
 
 public class Entreprise {
 
